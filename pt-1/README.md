@@ -4,7 +4,7 @@
 
 Congratulations! You have been hired as a developer for Monument Lifestyle Magazine. You work closely with a designer and have been provided design mockups of the magazine's website. Your goal is to replicate these mockups as closely as possible.
 
-You will be adding components to the blog page for homework each night this week, then build the landing page for the site over the weekend.
+You will be building the blog page and the landing page for the site for homework.
 
 
 ---
