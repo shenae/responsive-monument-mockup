@@ -22,7 +22,6 @@ Your work must:
 - Follow naming conventions, maintaining consistency across your `.html` and `.css` files.
 - Indent nested elements to increase your code's readability.
 - Use IDs, classes, and nested selectors to select and style elements on the page.
-- Use [HTML](https://html5.validator.nu/) and [CSS](https://jigsaw.w3.org/css-validator/#validate_by_input) validators to check for errors before submitting.
 
 
 **Bonus:**
