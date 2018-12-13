@@ -4,5 +4,5 @@
 
 [Go to part 2!](pt-2/)  
 
-[Go to part 3!](pt-3/)  
+BONUS!!!! --- [Go to part 3!](pt-3/)  
 
