@@ -6,3 +6,5 @@
 
 BONUS!!!! --- [Go to part 3!](pt-3/)  
 
+
+### Homework is due Thursday December 13th at 11PM 
