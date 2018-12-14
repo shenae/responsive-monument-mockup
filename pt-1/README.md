@@ -36,7 +36,7 @@ Images that you'll need to recreate on the blog have been provided in the Starte
 
 #### Suggested Ways to Get Started
 
-- First, you'll want to create a `blog.html` file for the blog (you'll be using `index.html` for the landing page).
+- First, you'll want to create a `blog.html` file for the blog.
 - Next, create a CSS file for the project (Be sure to use the `.css` file extension).
 - Add a link to the CSS file in the head of your HTML file.
 - Start by writing the HTML for the assignment, focusing on the _structure_ of the page (~20 minutes).
